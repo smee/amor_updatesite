@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="AMOR remote backend" url="http://github.com/smee/amor_updatesite/raw/master">
+      adsf
+   </description>
+   <feature url="features/org.infai.amor.remoteclient.feature_1.0.0.201007211402.jar" id="org.infai.amor.remoteclient.feature" version="1.0.0.201007211402"/>
+</site>
